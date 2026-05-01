@@ -7,5 +7,14 @@
         "humidity": "50",
         "condition": "Sunny",
         "wind": "23"
+    },
+    {
+        "timestamp": "2026-05-01T22:35:10.345271",
+        "city": "Manila",
+        "temperature": "31",
+        "feels_like": "36",
+        "humidity": "63",
+        "condition": "Clear",
+        "wind": "23"
     }
 ]

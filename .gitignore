@@ -1,3 +1,6 @@
-.venv/
-__pycache__/.venv/
+venv/
 __pycache__/
+*.csv
+*.json
+*.db
+.ipynb_checkpoints/
