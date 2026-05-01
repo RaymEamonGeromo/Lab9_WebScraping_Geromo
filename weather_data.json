@@ -1,15 +1,6 @@
 [
     {
-        "timestamp": "2026-04-25T18:49:55.733235",
-        "city": "Manila",
-        "temperature": "34",
-        "feels_like": "38",
-        "humidity": "50",
-        "condition": "Sunny",
-        "wind": "23"
-    },
-    {
-        "timestamp": "2026-05-01T22:35:10.345271",
+        "timestamp": "2026-05-01T22:42:13.520434",
         "city": "Manila",
         "temperature": "31",
         "feels_like": "36",
